@@ -1,0 +1,2 @@
+MAIN: mov MISSING_LABEL, r2
+stop
